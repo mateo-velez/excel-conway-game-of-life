@@ -11,7 +11,7 @@ This is an implementation of [Conway's Game of Life](https://en.wikipedia.org/wi
 2. Enable macros if prompted by Excel. This is necessary for the simulation to run correctly.
 3. Navigate to the "Config" sheet.
 4. Adjust the grid size by modifying the "Rows" and "Cols" values (up to 256x256).
-5. Customize the initial pattern on the "Initial Layout" sheet by setting cell values to 1 (live) or 0 (dead).
+5. Customize the initial pattern on the "Initial Grid" sheet by setting cell values to 1 (live) or 0 (dead).
 6. Click the "Reset" button on the Controls sheet.
 7. Click the "Calculate Now" button to start the simulation.
 8. Observe the pattern evolution on the "grid" sheet.
